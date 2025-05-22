@@ -44,7 +44,7 @@ export default function ChatWindow() {
                         left: '0',
                         width: '100%',
                         height: '100%',
-                    }} playing={true} loop={true} width='100%' height='100%' url={`Annie_trimmed.mov`} />
+                    }} playing={true} loop={true} width='100%' height='100%' url={`Annie_trimmed.mp4`} />
 
                     <div className="chatbot-gradient-overlay" />
 
